@@ -82,6 +82,10 @@ Optionally, an alert sound or email is triggered.
 
 Fire detection is based on color segmentation — detecting specific ranges of fire color in the HSV spectrum.
 
+![1](https://github.com/user-attachments/assets/61f60126-a782-4e08-8fd2-7d2c1d5edb37)
+
+
+
 
 ## Code Overview
 
